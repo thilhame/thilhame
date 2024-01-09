@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @Thiago
-- 👀 I’m interested in exchange knowledge and get my first job how to develop junior
-- 🌱 I’m currently learning Kotlin, Java, JavaScript
-- 💞️ I’m looking to collaborate with everything I can
+- 👀 Bem-vindo ao meu perfil!
+-  👋 Sou um entusiasta de tecnologia e um profissional apaixonado por garantia de qualidade e desenvolvimento de software. Tenho experiência como Analista de Qualidade e estou empolgado em explorar novos horizontes como Desenvolvedor Android
+
+### Skills:
+- **QA (Analista de Qualidade):**
+  - Experiência em teste de software, incluindo testes manuais e automatizados.
+  - Conhecimento em estratégias de teste, elaboração de casos de teste e relatórios de bugs.
+  - Colaboração eficaz com equipes de desenvolvimento para melhorar a qualidade do software.
+
+- **Desenvolvedor Júnior:**
+  - Proficiente em linguagens como Kotlin, Java.
+  - Familiaridade com boas práticas de desenvolvimento de código e controle de versão.
 - 📫 How to reach me thilhame@yahoo.com.br
 
 <!---
